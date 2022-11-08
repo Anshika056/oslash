@@ -1,0 +1,14 @@
+{
+    "development": {
+      "username": "root",
+      "password": "parkjimin056",
+      "database": "oslash",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "APP_PORT": 4000,
+    "JWT_SECRET": "checkingtheaccesstoken",
+    "JWT_EXPIRE_TIME": 30,
+    "JWT_EXPIRE_TIME_UNIT": "m"
+  }
+  
